@@ -1,0 +1,33 @@
+body {
+    background-color: #000;
+    display: grid;
+    place-items: center;
+}
+.container-post{
+    background-color: #fff;
+    width: 354px;
+    border: solid rgb(2, 58, 101) 1px;
+}
+.post-header{
+display: flex;
+justify-content: space-between;
+margin: 7px;
+}
+.div{
+    text-align: start;
+    padding: 5px;
+}
+.texto{
+    text-align: start;
+}
+.izquierda{
+    display: flex;
+    text-align: start;
+
+}
+.icons{
+    padding: 7px;
+}
+.Lorem{
+    padding: 0px 5px 10px 5px;
+}
